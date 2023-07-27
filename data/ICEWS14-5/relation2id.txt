@@ -1,0 +1,289 @@
+DUMMY_RELATION	0
+START_RELATION	1
+NO_OP_RELATION	2
+Carry out car bombing	142
+Carry out car bombing_inv	142
+Express intent to ease economic sanctions, boycott, or embargo	141
+Express intent to ease economic sanctions, boycott, or embargo_inv	141
+Appeal for release of persons or property	140
+Appeal for release of persons or property_inv	140
+Appeal for economic aid	139
+Appeal for economic aid_inv	139
+Seize or damage property	138
+Seize or damage property_inv	138
+Increase police alert status	137
+Increase police alert status_inv	137
+Attempt to assassinate	136
+Attempt to assassinate_inv	136
+Reduce or stop military assistance	135
+Reduce or stop military assistance_inv	135
+Express intent to yield	134
+Express intent to yield_inv	134
+Engage in judicial cooperation	133
+Engage in judicial cooperation_inv	133
+Violate ceasefire	132
+Violate ceasefire_inv	132
+Express intent to cooperate militarily	131
+Express intent to cooperate militarily_inv	131
+Refuse to release persons or property	130
+Refuse to release persons or property_inv	130
+Demand economic aid	129
+Demand economic aid_inv	129
+Demand mediation	128
+Demand mediation_inv	128
+Express accord	127
+Express accord_inv	127
+Demand material cooperation	126
+Demand material cooperation_inv	126
+Apologize	125
+Apologize_inv	125
+Yield	124
+Yield_inv	124
+Express intent to settle dispute	123
+Express intent to settle dispute_inv	123
+Demand diplomatic cooperation (such as policy support)	122
+Demand diplomatic cooperation (such as policy support)_inv	122
+Demand meeting, negotiation	121
+Demand meeting, negotiation_inv	121
+Decline comment	120
+Decline comment_inv	120
+Demand intelligence cooperation	119
+Demand intelligence cooperation_inv	119
+Physically assault	118
+Physically assault_inv	118
+Rally opposition against	117
+Rally opposition against_inv	117
+Appeal for judicial cooperation	116
+Appeal for judicial cooperation_inv	116
+Halt negotiations	115
+Halt negotiations_inv	115
+Acknowledge or claim responsibility	114
+Acknowledge or claim responsibility_inv	114
+Appeal for change in institutions, regime	113
+Appeal for change in institutions, regime_inv	113
+Express intent to provide military aid	112
+Express intent to provide military aid_inv	112
+Mobilize or increase police power	111
+Mobilize or increase police power_inv	111
+Appeal for aid	110
+Appeal for aid_inv	110
+Conduct strike or boycott	109
+Conduct strike or boycott_inv	109
+Demand change in leadership	108
+Demand change in leadership_inv	108
+Appeal for political reform	107
+Appeal for political reform_inv	107
+Threaten non-force	106
+Threaten non-force_inv	106
+Appeal for change in leadership	105
+Appeal for change in leadership_inv	105
+Investigate crime, corruption	104
+Investigate crime, corruption_inv	104
+Impose blockade, restrict movement	103
+Impose blockade, restrict movement_inv	103
+Rally support on behalf of	102
+Rally support on behalf of_inv	102
+Express intent to provide economic aid	101
+Express intent to provide economic aid_inv	101
+Appeal for intelligence	100
+Appeal for intelligence_inv	100
+Refuse to yield	99
+Refuse to yield_inv	99
+Defy norms, law	98
+Defy norms, law_inv	98
+Demand humanitarian aid	97
+Demand humanitarian aid_inv	97
+Investigate human rights abuses	96
+Investigate human rights abuses_inv	96
+Declare truce, ceasefire	95
+Declare truce, ceasefire_inv	95
+Cooperate militarily	94
+Cooperate militarily_inv	94
+Expel or deport individuals	93
+Expel or deport individuals_inv	93
+Torture	92
+Torture_inv	92
+Demand settling of dispute	91
+Demand settling of dispute_inv	91
+Obstruct passage, block	90
+Obstruct passage, block_inv	90
+Appeal for de-escalation of military engagement	89
+Appeal for de-escalation of military engagement_inv	89
+Appeal for easing of administrative sanctions	88
+Appeal for easing of administrative sanctions_inv	88
+Retreat or surrender militarily	87
+Retreat or surrender militarily_inv	87
+Refuse to de-escalate military engagement	86
+Refuse to de-escalate military engagement_inv	86
+Coerce	85
+Coerce_inv	85
+Carry out suicide bombing	84
+Carry out suicide bombing_inv	84
+Threaten with military force	83
+Threaten with military force_inv	83
+Bring lawsuit against	82
+Bring lawsuit against_inv	82
+Return, release property	81
+Return, release property_inv	81
+Reject proposal to meet, discuss, or negotiate	80
+Reject proposal to meet, discuss, or negotiate_inv	80
+Increase military alert status	79
+Increase military alert status_inv	79
+Express intent to cooperate economically	78
+Express intent to cooperate economically_inv	78
+Express intent to provide humanitarian aid	77
+Express intent to provide humanitarian aid_inv	77
+Accede to demands for change in leadership	76
+Accede to demands for change in leadership_inv	76
+Mediate	75
+Mediate_inv	75
+Share intelligence or information	74
+Share intelligence or information_inv	74
+Receive deployment of peacekeepers	73
+Receive deployment of peacekeepers_inv	73
+Express intent to provide material aid	72
+Express intent to provide material aid_inv	72
+Assassinate	71
+Assassinate_inv	71
+Kill by physical assault	70
+Kill by physical assault_inv	70
+Consider policy option	69
+Consider policy option_inv	69
+Express intent to engage in material cooperation	68
+Express intent to engage in material cooperation_inv	68
+Grant diplomatic recognition	67
+Grant diplomatic recognition_inv	67
+Protest violently, riot	66
+Protest violently, riot_inv	66
+Make empathetic comment	65
+Make empathetic comment_inv	65
+Appeal to engage in or accept mediation	64
+Appeal to engage in or accept mediation_inv	64
+Reduce or break diplomatic relations	63
+Reduce or break diplomatic relations_inv	63
+Accuse of crime, corruption	62
+Accuse of crime, corruption_inv	62
+Engage in material cooperation	61
+Engage in material cooperation_inv	61
+Demonstrate for leadership change	60
+Demonstrate for leadership change_inv	60
+Mobilize or increase armed forces	59
+Mobilize or increase armed forces_inv	59
+Accuse of aggression	58
+Accuse of aggression_inv	58
+Meet at a 'third' location	57
+Meet at a 'third' location_inv	57
+Occupy territory	56
+Occupy territory_inv	56
+Provide military aid	55
+Provide military aid_inv	55
+Confiscate property	54
+Confiscate property_inv	54
+fight with artillery and tanks	53
+fight with artillery and tanks_inv	53
+Conduct suicide, car, or other non-military bombing	52
+Conduct suicide, car, or other non-military bombing_inv	52
+Complain officially	51
+Complain officially_inv	51
+Provide economic aid	50
+Provide economic aid_inv	50
+Reject plan, agreement to settle dispute	49
+Reject plan, agreement to settle dispute_inv	49
+Accuse of human rights abuses	48
+Accuse of human rights abuses_inv	48
+Impose embargo, boycott, or sanctions	47
+Impose embargo, boycott, or sanctions_inv	47
+Impose administrative sanctions	46
+Impose administrative sanctions_inv	46
+Impose restrictions on political freedoms	45
+Impose restrictions on political freedoms_inv	45
+Make pessimistic comment	44
+Make pessimistic comment_inv	44
+Ease administrative sanctions	43
+Ease administrative sanctions_inv	43
+Abduct, hijack, or take hostage	42
+Abduct, hijack, or take hostage_inv	42
+Cooperate economically	41
+Cooperate economically_inv	41
+Provide humanitarian aid	40
+Provide humanitarian aid_inv	40
+Provide aid	39
+Provide aid_inv	39
+Use tactics of violent repression	38
+Use tactics of violent repression_inv	38
+fight with small arms and light weapons	37
+fight with small arms and light weapons_inv	37
+Express intent to release persons or property	36
+Express intent to release persons or property_inv	36
+Reduce relations	35
+Reduce relations_inv	35
+Appeal for diplomatic cooperation (such as policy support)	34
+Appeal for diplomatic cooperation (such as policy support)_inv	34
+Appeal to others to meet or negotiate	33
+Appeal to others to meet or negotiate_inv	33
+Give ultimatum	32
+Give ultimatum_inv	32
+Ease curfew	31
+Ease curfew_inv	31
+Demand de-escalation of military engagement	30
+Demand de-escalation of military engagement_inv	30
+Express intent to cooperate	29
+Express intent to cooperate_inv	29
+Threaten	28
+Threaten_inv	28
+Return, release person(s)	27
+Return, release person(s)_inv	27
+Employ aerial weapons	26
+Employ aerial weapons_inv	26
+Use unconventional violence	25
+Use unconventional violence_inv	25
+Engage in diplomatic cooperation	24
+Engage in diplomatic cooperation_inv	24
+Investigate	23
+Investigate_inv	23
+Sign formal agreement	22
+Sign formal agreement_inv	22
+Arrest, detain, or charge with legal action	21
+Arrest, detain, or charge with legal action_inv	21
+Express intent to engage in diplomatic cooperation (such as policy support)	20
+Express intent to engage in diplomatic cooperation (such as policy support)_inv	20
+Reject	19
+Reject_inv	19
+Criticize or denounce	18
+Criticize or denounce_inv	18
+Use conventional military force	17
+Use conventional military force_inv	17
+Make optimistic comment	16
+Make optimistic comment_inv	16
+Sexually assault	15
+Sexually assault_inv	15
+Grant asylum	14
+Grant asylum_inv	14
+Express intent to meet or negotiate	13
+Express intent to meet or negotiate_inv	13
+Demand	12
+Demand_inv	12
+Engage in negotiation	11
+Engage in negotiation_inv	11
+Host a visit	10
+Host a visit_inv	10
+Deny responsibility	9
+Deny responsibility_inv	9
+Discuss by telephone	8
+Discuss by telephone_inv	8
+Make an appeal or request	7
+Make an appeal or request_inv	7
+Engage in symbolic act	6
+Engage in symbolic act_inv	6
+Accuse	5
+Accuse_inv	5
+Consult	4
+Consult_inv	4
+Make a visit	3
+Make a visit_inv	3
+Praise or endorse	2
+Praise or endorse_inv	2
+Demonstrate or rally	1
+Demonstrate or rally_inv	1
+Make statement	0
+Make statement_inv	0

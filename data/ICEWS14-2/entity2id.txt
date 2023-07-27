@@ -1,0 +1,1225 @@
+DUMMY_ENTITY	0
+NO_OP_ENTITY	1
+Government (Nepal)	1222
+Sushil Koirala	1221
+Yamfwa Mukanga	1220
+Lawmaker (Iraq)	1219
+City Mayor (Philippines)	1218
+Reserve Personnel (Philippines)	1217
+Governor (Sweden)	1216
+Head of Government (South Korea)	1215
+Ayatollah Seyyed Ahmad Alamolhoda	1214
+Criminal (Guinea)	1213
+Ma Xiaoguang	1212
+Saud bin Faisal bin Abdul-Aziz	1211
+Coalition of the Radical Left	1210
+Behrouz Kamalvandi	1209
+Armed Separatist (China)	1208
+High Ranking Military Personnel (Nigeria)	1207
+Militia (Kenya)	1206
+Ahmad Zahid Hamidi	1205
+Newspaper (Afghanistan)	1204
+Ravi Shankar Prasad	1203
+Indigenous People (Syria)	1202
+Court Judge (Lebanon)	1201
+Paolo Gentiloni	1200
+Envoy (Vietnam)	1199
+Olisa Agbakoba	1198
+The Hague	1197
+Women (Afghanistan)	1196
+Legislature (Libya)	1195
+Military Personnel (Libya)	1194
+Population (Congo)	1193
+Augustin Matata Ponyo	1192
+Muslim (Myanmar)	1191
+Rioter (Myanmar)	1190
+Head of Government (Qatar)	1189
+Justice Department/Ministery (Thailand)	1188
+Manish Sisodia	1187
+Party Member (United Kingdom)	1186
+Industrial / Textiles / Mining Ministry (Egypt)	1185
+Senate (Spain)	1184
+Senate (Argentina)	1183
+Lawyer/Attorney (Argentina)	1182
+Isatou Njie-Saidy	1181
+Foreign Affairs (Luxembourg)	1180
+Education (Iran)	1179
+Education Ministry (Iran)	1178
+Franklin Drilon	1177
+Treasury/Finance Ministry (United Arab Emirates)	1176
+Employee (North Korea)	1175
+Armed Band (Lebanon)	1174
+Elizabeth II	1173
+Foreign Affairs (Honduras)	1172
+Mohamed Ould Abdel Aziz	1171
+Media (Nigeria)	1170
+Lindiwe Nonceba Sisulu	1169
+Member of Parliament (South Africa)	1168
+Military Personnel - Special (Kenya)	1167
+Foreign Affairs (Slovakia)	1166
+Emperor Akihito	1165
+Interim Government (Thailand)	1164
+Protester (United Kingdom)	1163
+Criminal (Kosovo)	1162
+Secretariat (Mexico)	1161
+Josh Earnest	1160
+Police (Cote d'Ivoire)	1159
+Extremist (Boko Haram)	1158
+Scholar (Nigeria)	1157
+Omar Suleiman	1156
+Chen Shui Bian	1155
+Chen Ming-tang	1154
+Manik Sarkar	1153
+Public Courts (Pakistan)	1152
+Amit Kumar	1151
+Mustafa Abu Shagur	1150
+Police (Libya)	1149
+Musa Cerantonio	1148
+High Ranking Military Personnel (Pakistan)	1147
+Citizen (Mongolia)	1146
+Militant (Somalia)	1145
+Militant (National Democratic Front of Bodoland)	1144
+Yu Zhengsheng	1143
+Lower House of Parliament (Germany)	1142
+François Bozizé	1141
+Minister Patnaik	1140
+Yogendra Yadav	1139
+Member of Parliament (China)	1138
+Member of the Judiciary (South Africa)	1137
+Government Official (Afghanistan)	1136
+Civic Group (Kenya)	1135
+Industry (Taiwan)	1134
+Shen Jong-chin	1133
+Foreign Affairs (Singapore)	1132
+Military Personnel (India)	1131
+Head of Government (Chile)	1130
+Jitan Ram Manjhi	1129
+Representatives (Turkey)	1128
+Armed Rebel (Ireland)	1127
+Military (United Kingdom)	1126
+Sergei Anatolievich Storchak	1125
+Treasury/Finance Ministry (Kyrgyzstan)	1124
+Ayman al-Zawahri	1123
+Representatives (Russia)	1122
+Samrat Choudhary	1121
+Davies Ibiamu Ikanya	1120
+Stephen Davis	1119
+Tea Banh	1118
+Defense / Security Ministry (South Sudan)	1117
+Barnaba Marial Benjamin	1116
+Education (Russia)	1115
+Media (Russia)	1114
+Head of Government (Taiwan)	1113
+Lawyer/Attorney (Romania)	1112
+City Mayor (China)	1111
+Cameroon	1110
+Sambo Dasuki	1109
+Armed Opposition (Central African Republic)	1108
+Phung Quang Thanh	1107
+Rights Activist (China)	1106
+Military (Mali)	1105
+Government Official (Mali)	1104
+Ali Bongo Ondimba	1103
+Iranian Parliament	1102
+Democratic Party (Nigeria)	1101
+Member of Legislative (Govt) (Nigeria)	1100
+Armed Gang (India)	1099
+Senate (Brazil)	1098
+Panhellenic Socialist Movement	1097
+Medical Association (India)	1096
+Mark Simmonds	1095
+Dragomir Stoynev	1094
+Botswana	1093
+Austria Press Agency	1092
+Head of Government (Afghanistan)	1091
+Vitali Klitschko	1090
+Tuvalu	1089
+Ireland	1088
+Guerrilla (Colombia)	1087
+Business (Jordan)	1086
+Suleiman Abba	1085
+Businessperson (United Kingdom)	1084
+Boris Johnson	1083
+Social Democratic Party (Lithuania)	1082
+Sadiq al-Mahdi	1081
+Malik Agar	1080
+Royal Thai Navy	1079
+Carnegie Endowment for International Peace	1078
+Riek Machar	1077
+Council of Europe	1076
+Alexander Stubb	1075
+Pdea	1074
+Employee (Philippines)	1073
+Nigerian Governors Forum	1072
+Party Member (Thailand)	1071
+Daniel Ceballos	1070
+Miguel Ángel Rodríguez	1069
+Student (Lebanon)	1068
+Rafiq Hariri	1067
+Member of the Judiciary (Iran)	1066
+Attorney General (Thailand)	1065
+Court Judge (Thailand)	1064
+Women (Palestinian Territory, Occupied)	1063
+People Associated with the Opposition (Mauritania)	1062
+Protester (Belgium)	1061
+Juan Carlos Pinzon	1060
+Citizen (Zambia)	1059
+United Party for National Development	1058
+Armed Gang (Benin)	1057
+Al Arabiya	1056
+Foreign Affairs (Ethiopia)	1055
+Criminal (United Arab Emirates)	1054
+Citizen (United Arab Emirates)	1053
+Combatant (Al Qaeda)	1052
+Legislature (Zimbabwe)	1051
+Military Personnel - Special (Nigeria)	1050
+Government (Georgia)	1049
+Foreign Affairs (Georgia)	1048
+Amr Mohammed Moussa	1047
+Rebel Group (Ukraine)	1046
+Zoryan Shkiryak	1045
+Government (Burundi)	1044
+Citizen (North Korea)	1043
+Prabowo Subianto	1042
+Secretariat (All Progressives Congress)	1041
+Campbell Newman	1040
+Information / Communication / Transparency Ministry (Jordan)	1039
+Gerhard Schröder	1038
+High Ranking Military Personnel (Malaysia)	1037
+Elmar Brok	1036
+Head of Government (Peru)	1035
+Lawyer/Attorney (Peru)	1034
+National Alliance (South Korea)	1033
+Oversight Court (South Korea)	1032
+Party Member (Turkey)	1031
+Police (Yemen)	1030
+Protester (Yemen)	1029
+Appeals Court (Malaysia)	1028
+Armed Gang (Palestinian Territory, Occupied)	1027
+Tomislav Nikolić	1026
+Zawahiri	1025
+Philip Goldberg	1024
+Philippine Military Academy	1023
+Hamdeen Sabahi	1022
+Attorney General (Egypt)	1021
+Pietro Parolin	1020
+City Mayor (Costa Rica)	1019
+Military (Paraguay)	1018
+Protester (Paraguay)	1017
+Roh Moo Hyun	1016
+Member of the Judiciary (South Korea)	1015
+United States Senate	1014
+Zurab Abashidze	1013
+Sukhumbhand Paribatra	1012
+Envoy (United Kingdom)	1011
+Constitutional Court (Albania)	1010
+Business (Uruguay)	1009
+Armed Gang (Lebanon)	1008
+Omar Abdullah	1007
+Amit Shah	1006
+Bulgarian National Radio	1005
+Daniela Bobeva	1004
+Klaus Johannis	1003
+Viorel Hrebenciuc	1002
+Provincial Officials (Iraq)	1001
+Lawyer/Attorney (Germany)	1000
+Women (Denmark)	999
+Chen Deming	998
+Villager (Thailand)	997
+Military Personnel (Thailand)	996
+Lawmaker (United Kingdom)	995
+Asylum Seeker (Sudan)	994
+Melissa Fleming	993
+Member of Legislative (Govt) (South Korea)	992
+Giorgio Napolitano	991
+Men (Sweden)	990
+Police (Sweden)	989
+Party of Free Life of Kurdistan	988
+Head of Government (Haiti)	987
+Political Parties (Haiti)	986
+Refugee (Cote d'Ivoire)	985
+Rights Activist (Hong Kong)	984
+Labor Union (Tunisia)	983
+Business (Tunisia)	982
+Student (Hong Kong)	981
+Police (Saudi Arabia)	980
+Armed Gang (Saudi Arabia)	979
+Member of Legislative (Govt) (Lebanon)	978
+Foreign Affairs (Syria)	977
+Ministry of Tourism (India)	976
+People Associated with the Opposition (Bahrain)	975
+Luke Foley	974
+Elio Di Rupo	973
+Your Party	972
+Ryutaro Hashimoto	971
+Armed Gang (Mexico)	970
+Head of Government (Gambia)	969
+Opposition Supporter (Pakistan)	968
+News Editor (Sudan)	967
+Exiled Opposition (Turkey)	966
+Opposition Supporter (Turkey)	965
+Foreign Affairs (Argentina)	964
+Azores	963
+Christian (Syria)	962
+Conference of Nigerian Political Parties	961
+Elections Canada	960
+Peacekeeping Troop (Fiji)	959
+Military (Russia)	958
+Eugene Wamalwa	957
+Jacob J. Lew	956
+Industry (Turkey)	955
+Mauritania	954
+Pokot	953
+Independent Corrupt Practices Commission	952
+Mustapha Akanbi	951
+Military (Lithuania)	950
+Criminal (Boko Haram)	949
+Party President (Zimbabwe)	948
+Media (South Africa)	947
+Ministry (France)	946
+Frank Mba	945
+Internal Security Operations Command	944
+Justice Department/Ministery (Colombia)	943
+Member of the Judiciary (Venezuela)	942
+Medical Personnel (Nigeria)	941
+Environment Department/Ministry (India)	940
+Oommen Chandy	939
+Protester (Turkey)	938
+Military (Turkey)	937
+Refugee (India)	936
+Student (Bahrain)	935
+Children (Sudan)	934
+Criminal (Sudan)	933
+Opposition Coalition (Venezuela)	932
+Abdullah bin Nasser bin Khalifa Al-Thani	931
+Mehmet Simsek	930
+Foreign Affairs (Libya)	929
+Al Wefaq National Islamic Society	928
+Volodymyr Konstantynov	927
+Tourist (United States)	926
+Armed Gang (Russia)	925
+Citizen (Bangladesh)	924
+Azubuike Ihejirika	923
+Mukhtar Ramalan Yero	922
+Legislature (Finland)	921
+Madeleine Albright	920
+Murtala Nyako	919
+Presidential Aide (Nigeria)	918
+Party Member (Croatia)	917
+Hannes Swoboda	916
+Media Personnel (Greece)	915
+Raj Thackeray	914
+Citizen (Lithuania)	913
+Akhilesh Yadav	912
+Kyung-wha Kang	911
+Director General (Bahrain)	910
+Head of Government (Bahrain)	909
+Yevhen Perebyinis	908
+Iyad Ameen Madani	907
+Daniel Constantin	906
+Army Personnel (Nepal)	905
+Dalbir Singh	904
+Military (Kuwait)	903
+Abdul Aziz	902
+Radovan Krejcir	901
+Ng Eng Hen	900
+George Lillikas	899
+Justin Koumba	898
+Military (Mexico)	897
+Zakir Hasanov	896
+Military Personnel (Philippines)	895
+Media (Philippines)	894
+Citizen (Saudi Arabia)	893
+Citizen (Hungary)	892
+Air Force (Iraq)	891
+Qassim Atta	890
+United Aircraft Corporation	889
+Moro National Liberation Front	888
+Justice Department/Ministery (Philippines)	887
+Liberal National Party	886
+Gerrie Nel	885
+Criminal (Switzerland)	884
+Other Authorities / Officials (Switzerland)	883
+Media Personnel (China)	882
+Green Party (Australia)	881
+Education Ministry (South Africa)	880
+Dzhokhar Tsarnaev	879
+Khaled al-Obeidi	878
+Laos	877
+Kofi Annan	876
+Martin McGuinness	875
+Kaduna State Police	874
+Ministry (Afghanistan)	873
+Ministry (Belgium)	872
+Federica Mogherini	871
+Nabih Berri	870
+Citizen (Czech Republic)	869
+Milos Zeman	868
+Head of Government (Bulgaria)	867
+Islam Karimov	866
+Party President (Congress Party)	865
+Y. Sinha	864
+Terrorist Leader (Islamic State of Iraq and the Levant)	863
+Government (Qatar)	862
+Maasai	861
+Police (United States)	860
+Senate (Italy)	859
+Party President (Italy)	858
+Jonah David Jang	857
+Chibuike Rotimi Amaechi	856
+Liu Zhenmin	855
+Defense / Security Ministry (Ukraine)	854
+Terrorist (Hamas)	853
+Air Force (Palestinian Territory, Occupied)	852
+Political Parties (Palestinian Territory, Occupied)	851
+Paris Club	850
+Russian Navy	849
+Progressive Party (Nigeria)	848
+Defense / Security Ministry (India)	847
+Herve Ladsous	846
+Dharamvira Gandhi	845
+Ryoo Kihl-jae	844
+Media (Zambia)	843
+Joseph Katema	842
+Edgars Rinkevics	841
+Other Authorities / Officials (Turkey)	840
+Pavlo Klimkin	839
+Human Rights Activist (China)	838
+Other Authorities / Officials (Liberia)	837
+Drug Enforcement (Liberia)	836
+Head of Government (Belarus)	835
+Algirdas Butkevičius	834
+Armed Rebel (Syria)	833
+City Mayor (Argentina)	832
+Separatist Leader (India)	831
+Shiv Sena	830
+Shura Council	829
+Head of Government (Brazil)	828
+Luiz Inacio Lula Da Silva	827
+M.K. Narayanan	826
+Jonathan Greenert	825
+Sylvia Masebo	824
+Liang Yang	823
+Tony Blair	822
+Steffen Seibert	821
+Ângelo de Barros Veiga Tavares	820
+Assembly of First Nations	819
+Dimitrios Avramopoulos	818
+Vassilis Kikilias	817
+Media Personnel (Somalia)	816
+Student Islamic Movement of India	815
+Patricia de Lille	814
+Combatant (Taliban)	813
+Military Advisor (United States)	812
+Air Force (Canada)	811
+Criminal (Italy)	810
+National Alliance (Iraq)	809
+Children (Zambia)	808
+Michael Sata	807
+Militant (Nigeria)	806
+Head of Government (Bangladesh)	805
+Dmitry Olegovich Rogozin	804
+Anders Borg	803
+Head of Government (Guatemala)	802
+Government (South Africa)	801
+Children (Jamaica)	800
+Fessehaye Yohannes	799
+Ri Su Yong	798
+Joachim Gauck	797
+Daniel Mitov	796
+Citizen (Georgia)	795
+Christian Democratic Movement	794
+Zhang Dejiang	793
+Russ Feingold	792
+Mary Robinson	791
+People Associated with the Opposition (Russia)	790
+Other Authorities / Officials (Russia)	789
+Philippe Couillard	788
+Court Judge (Kenya)	787
+Citizen (Brunei)	786
+Domestic Affairs (Greece)	785
+Akif Hamzaçebi	784
+Alexis Tsipras	783
+Naval (United States)	782
+Datuk Seri Tengku Adnan Tengku Mansor	781
+Jens Weidmann	780
+Salvador Sánchez Cerén	779
+Norman Quijano	778
+Yulia Tymoshenko	777
+Intelligence (India)	776
+Governor (Benin)	775
+Police (Benin)	774
+Joseph Kony	773
+Military Personnel - Special (United States)	772
+Legislature (Romania)	771
+Presidential Candidate (Afghanistan)	770
+Reuben Theodore Sindac	769
+Uighur (China)	768
+William Chandler	767
+Kashmiri Separatist	766
+Sheikh Hamad bin Khalifa al-Thani	765
+Citizen (Mali)	764
+Military Personnel (Yemen)	763
+Oman	762
+Domestic Affairs (Nigeria)	761
+Military Personnel (Nigeria)	760
+Government (Cote d'Ivoire)	759
+Criminal (Egypt)	758
+Steve Vukhile Tshwete	757
+Aam Aadmi Party	756
+Preneet Kaur	755
+Pilgrim (Pakistan)	754
+Fuad Masum	753
+Protester (Pakistan)	752
+Justicialist Party	751
+Indigenous People (United States)	750
+Labor and Employment Ministry (Bahrain)	749
+Business (Bahrain)	748
+Education Ministry (China)	747
+Arsen Avakov	746
+Government Lawyer/Representative (Egypt)	745
+State Media (Egypt)	744
+Party Member (Iran)	743
+Guatemala	742
+Ibrahim Shehu Shema	741
+Eduard Shevardnadze	740
+Faith Pansy Tlakula	739
+Felipe de Borbon	738
+Juan Carlos I	737
+Barclays PLC	736
+Royal Bank of Scotland	735
+Cho Tai-young	734
+Akitaka Saiki	733
+Congress (Nigeria)	732
+City Mayor (United States)	731
+Protester (Ethiopia)	730
+Police (Ethiopia)	729
+Lawyer/Attorney (United States)	728
+Umaru Tanko Al-Makura	727
+Central Intelligence Agency	726
+Ministry (South Korea)	725
+Activist (Kuwait)	724
+Blogger (China)	723
+Sebastian Kurz	722
+Member of Parliament (Iran)	721
+National Coalition for Syrian Revolutionary and Opposition Forces	720
+Justice and Development Party	719
+Débora Giorgi	718
+Agence France-Presse	717
+Maldives	716
+Sultan Ahmed bin Sulayem	715
+Medical Personnel (India)	714
+Sergio Massa	713
+Dora Akunyili	712
+Djibouti	711
+Combatant (Israel)	710
+Foreign Affairs (Israel)	709
+Rodrigo Londoño-Echeverry	708
+Businessperson (Indonesia)	707
+Naoki Inose	706
+Governor (India)	705
+Martin Wambora	704
+Victoria Nuland	703
+Head of Government (Croatia)	702
+Malta	701
+Bernardino Leon	700
+American Chamber of Commerce	699
+Legislature (Ecuador)	698
+Public Courts (Lebanon)	697
+Military (Argentina)	696
+Agustín Rossi	695
+Associated Press	694
+Other Authorities / Officials (Somalia)	693
+Activist (Thailand)	692
+Aleksandre Chikaidze	691
+Mohammed Qasim Fahim	690
+Government (France)	689
+Lien Chan	688
+Police (South Korea)	687
+Men (Swaziland)	686
+Member of the Judiciary (Swaziland)	685
+Businessperson (Pakistan)	684
+Other Authorities / Officials (Brazil)	683
+Police (Japan)	682
+Newspaper (Japan)	681
+Businessperson (Australia)	680
+Bolivia	679
+Tsai Ing-wen	678
+Kuomintang	677
+Emma Bonino	676
+Other Authorities / Officials (Greece)	675
+Social Renewal Party	674
+Court Judge (United Kingdom)	673
+Salil Shetty	672
+Kamalesh Sharma	671
+Head of Government (Germany)	670
+Central Reserve Police Force	669
+Yair Lapid	668
+Shas	667
+Joseph Robinette Biden	666
+Company - Owner or Operator (Italy)	665
+Government (Italy)	664
+Human Rights Group (Nigeria)	663
+Farm Worker (Nigeria)	662
+Embraer	661
+Mohamed al-Dairi	660
+Foreign Affairs (South Korea)	659
+David Shear	658
+Canadian Armed Forces	657
+Army Personnel (Egypt)	656
+Citizen (Slovakia)	655
+Richard Sulík	654
+Lawyer/Attorney (Turkey)	653
+Luis Alberto Lacalle	652
+Colorado Party (Uruguay)	651
+Government Official (United States)	650
+Lawmaker (Ukraine)	649
+Industrial / Textiles / Mining Ministry (Tajikistan)	648
+Detainee (Myanmar)	647
+Media Personnel (Myanmar)	646
+Cristina Fernández de Kirchner	645
+Lawmaker (Argentina)	644
+Defense / Security Ministry (Nigeria)	643
+Cleric (Nigeria)	642
+Government (Austria)	641
+Business (Austria)	640
+Foreign Affairs (Malaysia)	639
+Tony Tan Keng Yam	638
+Other Authorities / Officials (Mexico)	637
+Attahiru Dalhatu Bafarawa	636
+Chief Court Judge (Zambia)	635
+Court Judge (Zambia)	634
+Ananth Kumar	633
+Kapil Sibal	632
+Børge Brende	631
+Attacker (Palestinian Territory, Occupied)	630
+Bureaucrat (India)	629
+National Council for Peace and Order of Thailand	628
+Criminal (Israel)	627
+Taavi Rõivas	626
+Bangladesh Nationalist Party	625
+Student (Yemen)	624
+Militant (Yemen)	623
+Party Member (Malawi)	622
+Maxon Mbendera	621
+Lawyer/Attorney (Belgium)	620
+Police (Belgium)	619
+Attacker (Afghanistan)	618
+Gilberto Kassab	617
+Citizen (Brazil)	616
+Armed Gang (Egypt)	615
+Criminal (Somalia)	614
+New Zealand	613
+Police (Namibia)	612
+Military (France)	611
+Gilles Jaron	610
+Michel Sapin	609
+Michael Noonan	608
+Women (Kenya)	607
+Other Authorities / Officials (Venezuela)	606
+Zeid Ra'ad Al Hussein	605
+Al Jazeera	604
+Member of Parliament (Australia)	603
+Denis Napthine	602
+Kathleen Wynne	601
+Ministry (Venezuela)	600
+Customs Official (India)	599
+Evo Morales	598
+Business (Russia)	597
+Other Authorities / Officials (United States)	596
+Main Opposition (Bahrain)	595
+Tom Motsoahae Thabane	594
+Ronnie Mamoepa	593
+Indigenous People (Nigeria)	592
+Isaias Afewerki	591
+Raheel Sharif	590
+Displaced Families (Pakistan)	589
+Government (Germany)	588
+High Ranking Military Personnel (Angola)	587
+Ministry (Angola)	586
+University of Limpopo	585
+Armed Gang (Libya)	584
+Alexander Vershbow	583
+Nationalist Movement Party	582
+Majid bin Muhammad al Majid	581
+Other Authorities / Officials (Lebanon)	580
+Legislature (Iraq)	579
+Police (Rwanda)	578
+Valens Munyabagisha	577
+Defense / Security Ministry (China)	576
+Ministry of Public Security (China)	575
+Okey Wali	574
+Augustine Alegeh	573
+Tatarstan	572
+Islamic Rebirth Party	571
+Citizen (Tanzania)	570
+Police (Tanzania)	569
+Ministry (Kuwait)	568
+Labor Union (Kuwait)	567
+Foreign Affairs (Hungary)	566
+Protester (Thailand)	565
+Tajikistan	564
+Radio France Internationale	563
+Pierre Nkurunziza	562
+Curacao	561
+Lawmaker (Slovakia)	560
+Andrej Kiska	559
+Other Authorities / Officials (China)	558
+Government (Africa)	557
+Police (Jamaica)	556
+Media Personnel (United States)	555
+Ministry (Thailand)	554
+Media Personnel (Thailand)	553
+Staffan de Mistura	552
+Philip Hammond	551
+Citizen (Greece)	550
+Governor (Yemen)	549
+Military (South Sudan)	548
+Imad Mugniyah	547
+Caitlin Hayden	546
+Shozaburo Nakamura	545
+Paraguay	544
+Carlos Kuschel Silva	543
+Ministry (Poland)	542
+Alexander Grushko	541
+Citizen (Uganda)	540
+Uganda People's Defence Force	539
+Joseph Ole Lenku	538
+Moro Islamic Liberation Front	537
+Military Personnel - Special (Philippines)	536
+Member of the Judiciary (Canada)	535
+Interfax	534
+Ministry (Russia)	533
+Settler (Israel)	532
+Party Member (Canada)	531
+Rosalinda Baldoz	530
+Tourist (United Kingdom)	529
+Immigrants (Myanmar)	528
+Aliyu Mohammed Gusau	527
+Foreign Affairs (Ukraine)	526
+Association of Southeast Asian Nations	525
+Uhuru	524
+Amal Movement	523
+Organisation of Islamic Cooperation	522
+Government (Sudan)	521
+Gen Prayut Chan-o-cha	520
+Reuven Rivlin	519
+Balarabe Musa	518
+Religion (Germany)	517
+Women (Hong Kong)	516
+Citizen (Turkey)	515
+Agriculture / Fishing / Forestry Ministry (Brazil)	514
+Head of Government (India)	513
+Legislature (Lebanon)	512
+Government (United Arab Emirates)	511
+Aristovoulos Spiliotopoulos	510
+Reza Najafi	509
+National Intelligence Bureau (Egypt)	508
+Criminal (Tanzania)	507
+Tanzania	506
+Foreign Affairs (Italy)	505
+Patience Jonathan	504
+Terrorist (Islamic State of Iraq and the Levant)	503
+Legislature (Serbia)	502
+City Mayor (Venezuela)	501
+News Editor (China)	500
+Media (China)	499
+Children (Israel)	498
+Malaysia	497
+Police (Malaysia)	496
+Jeffrey Fowle	495
+Sheikh Hasina Wajed	494
+Men (Syria)	493
+Militant (Syria)	492
+Citizen (Thailand)	491
+Government Official (Thailand)	490
+Coup D'etat Leader (Thailand)	489
+Party Member (Iraq)	488
+Other Authorities / Officials (Libya)	487
+Muslim (Nigeria)	486
+Women (South Sudan)	485
+Undersecretary (South Sudan)	484
+Indigenous People (United Kingdom)	483
+Argentine Naval Prefecture	482
+Head of Government (Palestinian Territory, Occupied)	481
+Member of Legislative (Govt) (Azerbaijan)	480
+Abdoulaye Diop	479
+Lawyer/Attorney (Kenya)	478
+Employee (Iraq)	477
+Lawmaker (Japan)	476
+Massoud Barzani	475
+Foreign Affairs (Ecuador)	474
+Indigenous People (Kenya)	473
+Citizen (Venezuela)	472
+Office of the United Nations High Commissioner for Human Rights	471
+Citizen (Singapore)	470
+Education Ministry (Singapore)	469
+Lawmaker (Indonesia)	468
+Business (Indonesia)	467
+Businessperson (Kenya)	466
+Ogbeni Rauf Aregbesola	465
+Representatives (Afghanistan)	464
+Government (Angola)	463
+Representatives (Sudan)	462
+Lawyer/Attorney (Colombia)	461
+Activist (Colombia)	460
+Fernando Henrique Cardoso	459
+Ministry (Brazil)	458
+Criminal (Pakistan)	457
+Border Security Force	456
+Daewoo	455
+Ruling Party (Zambia)	454
+Rights Activist (Zambia)	453
+Foreign Affairs (Romania)	452
+Salman Khurshid	451
+Santos Edelmar Lopez	450
+Citizen (Germany)	449
+Abu Sayyaf	448
+Poland	447
+Yasuo Fukuda	446
+Philippines	445
+Mauricio Domogan	444
+Caroline Kennedy	443
+Somali National Army	442
+Combatant (Al-Shabaab)	441
+Fula people	440
+Ethnic Group (Nigeria)	439
+Veterans (United Kingdom)	438
+Party Member (Afghanistan)	437
+Evangelos Venizelos	436
+Protester (Vietnam)	435
+Jean-Yves Le Drian	434
+Kim Jong-Un	433
+Company - Owner or Operator (India)	432
+Armed Opposition (India)	431
+Head of Government (China)	430
+Children (Palestinian Territory, Occupied)	429
+Miguel Macedo	428
+Military Personnel (South Korea)	427
+Ali Hassan Khalil	426
+Riad Salameh	425
+Miguel Angel Mancera	424
+Seyran Ohanyan	423
+Armenia	422
+Media (Saudi Arabia)	421
+Media Personnel (Saudi Arabia)	420
+Cheng Yonghua	419
+Activist (Syria)	418
+Commando (India)	417
+RIA Novosti	416
+Protester (Hong Kong)	415
+Police (Hong Kong)	414
+Nangolo Mbumba	413
+Wael Abdul Latif	412
+Citizen (Kosovo)	411
+Police (Kosovo)	410
+Ebrahim Patel	409
+The Cape Times	408
+Armed Band (India)	407
+Portugal	406
+International Monetary Fund	405
+Armed Rebel (Yemen)	404
+Citizen (Yemen)	403
+Children (Zimbabwe)	402
+Milton Serima	401
+Nur Ahmad Nikbakht	400
+Burundi	399
+Adama Dieng	398
+Dimeji Bankole	397
+Kamba	396
+Military (China)	395
+Criminal (Mauritius)	394
+Mauritius	393
+Bismillah Khan Mohammadi	392
+Ministry of Commerce	391
+Wael al-Halki	390
+Member of Legislative (Govt) (Iran)	389
+Asang Laol	388
+Ministry (Turkey)	387
+Head of Government (Cyprus)	386
+Media Personnel (Pakistan)	385
+Len Brown	384
+Men (New Zealand)	383
+Krisjanis Karins	382
+Intelligence Chief (United States)	381
+Abhisit Vejjajiva	380
+Vladimir Konstantinov	379
+City Mayor (Ukraine)	378
+Media Personnel (Argentina)	377
+Armed Band (Argentina)	376
+Member of Parliament (Thailand)	375
+National Anti-Corruption Commission (Thailand)	374
+Sabah Khaled Al-Hamad Al-Sabah	373
+Foreign Affairs (Kuwait)	372
+Police (Ukraine)	371
+Protester (Ukraine)	370
+Election Commission (Afghanistan)	369
+Media (Kenya)	368
+Military Personnel (Kenya)	367
+Jose Luis de Matos	366
+Efkan Ala	365
+Transportation Ministry/Department (Singapore)	364
+Lui Tuck Yew	363
+Ministry (South Africa)	362
+Other Authorities / Officials (Nigeria)	361
+Government (New Zealand)	360
+Anifah Aman	359
+Pham Binh Minh	358
+Fumio Kishida	357
+Government (Sweden)	356
+Legislature (Sweden)	355
+Horacio Cartes	354
+Defense / Security Ministry (Iraq)	353
+Le Hong Anh	352
+Citizen (International)	351
+Shimon Peres	350
+Head of Government (Egypt)	349
+Congo	348
+Mevlut Cavusoglu	347
+Employee (Myanmar)	346
+Military (Myanmar)	345
+Court Judge (Nigeria)	344
+Citizen (Bulgaria)	343
+Bank (Bulgaria)	342
+Vietnam	341
+Héctor Beltrán Leyva	340
+Mexico	339
+Ma Ying Jeou	338
+Communist Party of India	337
+Julius Malema	336
+Citizen (South Korea)	335
+Lawyer/Attorney (South Korea)	334
+Solomon Makgale	333
+Alex Salmond	332
+Governor (Thailand)	331
+Anupong Paochinda	330
+Tom Fletcher	329
+Government Official (Solomon Islands)	328
+William Ruto	327
+Ertharin Cousin	326
+Ethiopia	325
+Cabinet / Council of Ministers / Advisors (Cyprus)	324
+Alex Badeh	323
+Chris Olukolade	322
+Legislature (Pakistan)	321
+Dmitry Anatolyevich Medvedev	320
+National Front Malaysia	319
+Citizen (Malaysia)	318
+Media Personnel (France)	317
+Government (Syria)	316
+Media (India)	315
+Men (United Kingdom)	314
+Cabinet / Council of Ministers / Advisors (Thailand)	313
+Phongthep Thepkanjana	312
+Chongwadai	311
+Party President (Telugu Desam Party)	310
+Government (Slovakia)	309
+Representatives (Slovakia)	308
+Haider Al-Abadi	307
+Abdel Fattah Al-Sisi	306
+Head of Government (Ethiopia)	305
+Leopoldo López	304
+Police (Greece)	303
+Main Opposition (Greece)	302
+Police (Sudan)	301
+Militia (Iraq)	300
+Chang Wanquan	299
+Defense / Security Ministry (Egypt)	298
+Ministry (Romania)	297
+Special Rapporteurs of the United Nations	296
+Civic Group (Afghanistan)	295
+Cabinet / Council of Ministers / Advisors (Angola)	294
+European Parliament	293
+Valdis Dombrovskis	292
+Women (Australia)	291
+Police (Australia)	290
+North Korea	289
+Defense / Security Ministry (United States)	288
+Daniel Scioli	287
+Government (Croatia)	286
+Ante Kotromanović	285
+Sayed Fazlollah Wahidi	284
+Cabinet / Council of Ministers / Advisors (Holy See (Vatican City State))	283
+Government (Venezuela)	282
+Hamas	281
+Joe Oliver	280
+Economist (Canada)	279
+Government (Palestinian Territory, Occupied)	278
+Ministry (United States)	277
+Citizen (Namibia)	276
+Court Judge (Namibia)	275
+Police (South Africa)	274
+Qin Gang	273
+Tamar Beruchashvili	272
+Peter Szijjarto	271
+Sergey Kuzhugetovich Shoygu	270
+Citizen (Cote d'Ivoire)	269
+Militant (Rally of the Republicans)	268
+Martin Indyk	267
+Tzipi Livni	266
+Governor (Kenya)	265
+Antonis Samaras	264
+Men (Philippines)	263
+Criminal (Philippines)	262
+Michael D. Higgins	261
+Prajin Jantong	260
+Head of Government (Colombia)	259
+Ministry (Czech Republic)	258
+Andrej Babis	257
+Charles Taylor	256
+Special Court for Sierra Leone	255
+Islamic Preacher (Iran)	254
+Labor Union (India)	253
+Police (Uganda)	252
+Military (Niger)	251
+Morteza Sarmadi	250
+Ministry (Egypt)	249
+Nicos Anastasiades	248
+Sukhbir Badal	247
+Middle East	246
+Patrick Brazeau	245
+South African National Defence Force	244
+Shrien Dewani	243
+Citizen (United Kingdom)	242
+Colombia	241
+National Liberation Army	240
+Other Authorities / Officials (Egypt)	239
+Alaa Abdel Fattah	238
+Foreign Affairs (Mongolia)	237
+Head of Government (Mozambique)	236
+Nuri al-Maliki	235
+Doctors Without Borders	234
+Konstantin Dolgov	233
+Cabinet / Council of Ministers / Advisors (Jordan)	232
+Ministry (Jordan)	231
+Healthcare Facility (Venezuela)	230
+Student (Venezuela)	229
+Abdullah Abdullah	228
+Raúl Castro	227
+Jakaya Mrisho Kikwete	226
+Media (Africa)	225
+Wang Yang	224
+Police (Indonesia)	223
+Protester (Indonesia)	222
+Head of Government (Pakistan)	221
+Frank Bainimarama	220
+Amnesty International	219
+Mohamad Hanif Atmar	218
+Boko Haram	217
+Guillaume Soro	216
+South Sudan	215
+Military (Thailand)	214
+Royal Administration (Jordan)	213
+Ukrinform	212
+Lawyer/Attorney (Russia)	211
+Government Affiliated Bank (Nigeria)	210
+Imran Khan	209
+Tahirul Qadri	208
+Viktor Orban	207
+Congress (United States)	206
+Government (United States)	205
+Ministry (Croatia)	204
+Uhuru Muigai Kenyatta	203
+Military (Lebanon)	202
+Media Personnel (Iran)	201
+Mohammad Nahavandian	200
+Marziyeh Afkham	199
+Government (Kenya)	198
+Islamic Preacher (Kenya)	197
+Angola	196
+Sierra Leone	195
+High Commission for Refugees	194
+Martin Lidegaard	193
+Ministry (Malaysia)	192
+Tan Sri Muhyiddin Yassin	191
+Benjamin Netanyahu	190
+Intelligence (Nigeria)	189
+Education (Nigeria)	188
+Citizen (Kenya)	187
+Keiji Furuya	186
+Military (Philippines)	185
+Police (Philippines)	184
+Al-Shabaab	183
+Military Personnel (Somalia)	182
+Adams Oshiomhole	181
+Victor Ponta	180
+Romania	179
+Secretariat (Nigeria)	178
+Kazakhstan	177
+Defense / Security Ministry (Azerbaijan)	176
+Defense / Security Ministry (Armenia)	175
+Djoomart Otorbaev	174
+Citizen (Kyrgyzstan)	173
+Employee (India)	172
+Sharad Pawar	171
+Movement for Democratic Change	170
+Morgan Tsvangirai	169
+Party of Regions	168
+Refat Chubarov	167
+Military Personnel - Special (Afghanistan)	166
+Armed Gang (Afghanistan)	165
+Terrorist (Boko Haram)	164
+Prayuth Chan-ocha	163
+Muhammadu Buhari	162
+Men (Kenya)	161
+Yi Xianliang	160
+Citizen (Australia)	159
+Lawyer/Attorney (Australia)	158
+Armed Band (Syria)	157
+Police (Syria)	156
+Democratic Party	155
+Bukola Saraki	154
+Anandiben Patel	153
+Criminal (Mexico)	152
+Government (Mexico)	151
+Secret Agent (North Korea)	150
+Company - Owner or Operator (Nigeria)	149
+Ministry (Nigeria)	148
+Holding Company (New Zealand)	147
+City Mayor (New Zealand)	146
+Foreign Affairs (Austria)	145
+Villager (India)	144
+Avtar Singh	143
+Armed Band (Afghanistan)	142
+UN Security Council	141
+Jyrki Katainen	140
+Militant (Iraq)	139
+Gideon Sa'ar	138
+Likud	137
+Citizen (Sudan)	136
+Pope Francis	135
+Mahinda Rajapaksa	134
+Jean Qahwaji	133
+John Kerry	132
+Ijaw Youth Council	131
+Mehr News Agency	130
+Qatar	129
+Bahrain	128
+Xi Jinping	127
+John Baird	126
+Serbia	125
+Mulatu Teshome	124
+United Arab Emirates	123
+House of Representatives (Japan)	122
+Member of the Judiciary (Nigeria)	121
+Citizen (Nigeria)	120
+Majid Takht Ravanchi	119
+Foreign Affairs (United States)	118
+National Reform Movement	117
+International Government Organizations	116
+Member of Parliament (India)	115
+Election Commission (India)	114
+Mob (Kenya)	113
+Police (Kenya)	112
+Guinea	111
+John Dramani Mahama	110
+Police (Israel)	109
+Micky Rosenfeld	108
+Foreign Affairs (Russia)	107
+Myanmar	106
+Thailand	105
+Government (Bahamas)	104
+Head of Government (Bahamas)	103
+Umar al Bashir	102
+Nurse (India)	101
+Ministry (Iran)	100
+Canada	99
+Business (Canada)	98
+Citizen (Guinea)	97
+Armed Band (Guinea)	96
+Head of Government (Turkmenistan)	95
+Head of Government (Ukraine)	94
+Sergey Viktorovich Lavrov	93
+Government (Nigeria)	92
+Donald Etiebet	91
+Madagascar	90
+Presidential Majority	89
+Rauf Aregbesola	88
+Royal Administration (Nigeria)	87
+Other Authorities / Officials (Oman)	86
+Human Rights Watch	85
+Chaudhry Nisar Ali Khan	84
+Pakistan Tehreek-e-Insaf	83
+Angela Merkel	82
+South Korea	81
+Men (India)	80
+Thief (India)	79
+Court Judge (Egypt)	78
+Lawyer/Attorney (Egypt)	77
+African Union	76
+United Democratic Movement	75
+Julie Bishop	74
+Cabinet / Council of Ministers / Advisors (United States)	73
+Tehrik-i-Taliban Pakistan	72
+Government (Pakistan)	71
+Food and Agriculture Organization	70
+Head of Government (Nigeria)	69
+Kashim Shettima	68
+Insurgent (Afghanistan)	67
+Medha Patkar	66
+Envoy (United States)	65
+Hezbollah	64
+Lawmaker (Lebanon)	63
+Member of the Judiciary (Slovakia)	62
+Stefan Harabin	61
+Attorney General (Afghanistan)	60
+Chuck Hagel	59
+Protester (Egypt)	58
+Police (Egypt)	57
+Court Judge (India)	56
+Citizen (Indonesia)	55
+Lawyer/Attorney (Indonesia)	54
+North Atlantic Treaty Organization	53
+Karl Erjavec	52
+Gazprom	51
+China National Petroleum Corporation	50
+Citizen (Croatia)	49
+Veterans (Croatia)	48
+Iraq	47
+Finance / Economy / Commerce / Trade Ministry (India)	46
+Bhutan	45
+Indigenous People (Pakistan)	44
+Afghanistan	43
+Morocco	42
+Sahrawi people	41
+Henry Kissinger	40
+Member of Legislative (Govt) (Singapore)	39
+Mohammad Javad Zarif	38
+Arseniy Yatsenyuk	37
+Jens Stoltenberg	36
+Sudan	35
+Kuwait	34
+François Hollande	33
+Barack Obama	32
+Aamir Khan	31
+Japan	30
+Grand National Party	29
+Mamnoon Hussain	28
+Ashraf Ghani Ahmadzai	27
+Veera Somkwamkid	26
+Cambodia	25
+Fiji	24
+Aladdin Boroujerdi	23
+Governor (Japan)	22
+Freedom Fighter (Zambia)	21
+Guy Scott	20
+Royal Administration (Saudi Arabia)	19
+France	18
+Israeli Defense Forces	17
+Peter Lerner	16
+Government (Argentina)	15
+Congress (Argentina)	14
+Abdullah Gül	13
+Main Opposition (Turkey)	12
+Pervez Musharraf	11
+Militant (Taliban)	10
+Men (South Africa)	9
+South Africa	8
+China	7
+Samsung	6
+Sikh (India)	5
+Citizen (India)	4
+Iran	3
+Catherine Ashton	2
+Government (Mauritania)	1
+Citizen (Mauritania)	0
